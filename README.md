@@ -22,7 +22,10 @@ Managed both support and development teams for many years using the best practic
 ## I have studied
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50px" /> <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" width="75px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-line-wordmark.svg" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px" />
-          
+
+## Stats
+
+[![pepcmarques's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepcmarques)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pepcmarques/pepcmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +33,8 @@ Managed both support and development teams for many years using the best practic
 Icons - https://devicon.dev
       - https://github.com/alexandresanlim/Badges4-README.md-Profile
       - https://shields.io
+
+Stats - https://github.com/anuraghazra/github-readme-stats
 
 Here are some ideas to get you started:
 
