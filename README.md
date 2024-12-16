@@ -16,7 +16,7 @@ Managed both support and development teams for many years using the best practic
 ## I have worked with
 
 * Erlang
-* Java
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50px" />
 * Microsoft Servers
 * Linux Servers
 * Cisco (routers, switches, VoIP...)
