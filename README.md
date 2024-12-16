@@ -28,6 +28,8 @@ Managed both support and development teams for many years using the best practic
 **pepcmarques/pepcmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Icons - https://devicon.dev
+      - https://github.com/alexandresanlim/Badges4-README.md-Profile
+      - https://shields.io
 
 Here are some ideas to get you started:
 
