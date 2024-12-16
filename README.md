@@ -36,6 +36,7 @@ Icons - https://devicon.dev
       - https://shields.io
 
 Stats - https://github.com/anuraghazra/github-readme-stats
+      - https://github.com/vn7n24fzkq/github-profile-summary-cards
 
 Here are some ideas to get you started:
 
