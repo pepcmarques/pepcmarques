@@ -1,4 +1,7 @@
-# Paulo Marques
+## Who am I
+
+* Seasoned Systems Analyst with over 25 years’ diverse experience in the IT infrastructure project management – designing, implementing, and developing informational systems from scratch
+Managed both support and development teams for many years using the best practices like Agile
 
 <!--
 **pepcmarques/pepcmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
