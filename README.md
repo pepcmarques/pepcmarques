@@ -16,9 +16,11 @@ Managed both support and development teams for many years using the best practic
 
 ## I have worked with
 
-* Erlang
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50px" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/erlang/erlang-original-wordmark.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50px" />
+          
 * Microsoft Servers
 * Linux Servers
 * Cisco (routers, switches, VoIP...)
@@ -29,6 +31,8 @@ Managed both support and development teams for many years using the best practic
 * React
 * NextJS
 * Reac Native
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px" />
+          
 
 <!--
 **pepcmarques/pepcmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
