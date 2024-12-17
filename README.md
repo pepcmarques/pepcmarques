@@ -33,6 +33,8 @@ Managed both support and development teams for many years using the best practic
 
 ## Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pepcmarques)
+
+
 <!--
 **pepcmarques/pepcmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,6 +47,12 @@ Icons - https://devicon.dev
 Stats - https://github.com/anuraghazra/github-readme-stats
       - https://github.com/vn7n24fzkq/github-profile-summary-cards
       - https://github.com/ryo-ma/github-profile-trophy
+
+Profile Maker - https://github.com/VishwaGauravIn/github-profile-readme-maker
+              - https://github.com/rahuldkjain/github-profile-readme-generator
+
+
+Some ideas....
 
 Here are some ideas to get you started:
 
