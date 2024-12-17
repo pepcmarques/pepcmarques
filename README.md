@@ -37,6 +37,7 @@ Icons - https://devicon.dev
 
 Stats - https://github.com/anuraghazra/github-readme-stats
       - https://github.com/vn7n24fzkq/github-profile-summary-cards
+      - https://github.com/ryo-ma/github-profile-trophy
 
 Here are some ideas to get you started:
 
