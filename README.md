@@ -1,3 +1,5 @@
+
+
 ## Who am I
 
 * Seasoned Systems Analyst with over 25 years’ diverse experience in the IT infrastructure project management – designing, implementing, and developing informational systems from scratch
@@ -33,6 +35,8 @@ Managed both support and development teams for many years using the best practic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pepcmarques)
 <!--
 **pepcmarques/pepcmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Header - https://github.com/leviarista/github-profile-header-generator
 
 Icons - https://devicon.dev
       - https://github.com/alexandresanlim/Badges4-README.md-Profile
