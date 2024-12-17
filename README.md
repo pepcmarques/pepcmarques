@@ -28,6 +28,9 @@ Managed both support and development teams for many years using the best practic
 [![pepcmarques's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepcmarques&hide=contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepcmarques&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact)
 
+
+## Find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pepcmarques)
 <!--
 **pepcmarques/pepcmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
