@@ -48,8 +48,6 @@ Managed both support and development teams for many years using the best practic
 Header - https://github.com/leviarista/github-profile-header-generator
 
 Icons - https://devicon.dev
-      - https://github.com/alexandresanlim/Badges4-README.md-Profile
-      - https://shields.io
 
 Stats - https://github.com/anuraghazra/github-readme-stats
       - https://github.com/vn7n24fzkq/github-profile-summary-cards
@@ -64,6 +62,7 @@ Emojis - https://emojipedia.org
 Shields - https://shields.io
 
 Badges - https://github.com/VishwaGauravIn/pretty-readme-badges
+       - https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 Some ideas....
 
