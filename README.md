@@ -34,6 +34,10 @@ Managed both support and development teams for many years using the best practic
 ## Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pepcmarques)
 
+## This repo
+
+![GitHub repo size](https://img.shields.io/github/repo-size/pepcmarques/pepcmarques)
+
 
 <!--
 **pepcmarques/pepcmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,6 +57,9 @@ Profile Maker - https://github.com/VishwaGauravIn/github-profile-readme-maker
 
 Emojis - https://emojipedia.org
        - https://github.com/ikatyang/emoji-cheat-sheet
+
+Shields - https://shields.io
+        - 
 
 Some ideas....
 
