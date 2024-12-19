@@ -51,6 +51,8 @@ Stats - https://github.com/anuraghazra/github-readme-stats
 Profile Maker - https://github.com/VishwaGauravIn/github-profile-readme-maker
               - https://github.com/rahuldkjain/github-profile-readme-generator
 
+Emojis - https://emojipedia.org
+       - https://github.com/ikatyang/emoji-cheat-sheet
 
 Some ideas....
 
