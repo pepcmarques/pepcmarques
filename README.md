@@ -38,6 +38,7 @@ Managed both support and development teams for many years using the best practic
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pepcmarques/pepcmarques)
 ![GitHub License](https://img.shields.io/github/license/pepcmarques/pepcmarques)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
 
 
 
@@ -61,7 +62,8 @@ Emojis - https://emojipedia.org
        - https://github.com/ikatyang/emoji-cheat-sheet
 
 Shields - https://shields.io
-        - 
+
+Badges - https://github.com/VishwaGauravIn/pretty-readme-badges
 
 Some ideas....
 
