@@ -40,7 +40,8 @@ Managed both support and development teams for many years using the best practic
 ![GitHub License](https://img.shields.io/github/license/pepcmarques/pepcmarques)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
 
-
+-------------------------
+<p align="center">Created by Paulo</p>
 
 <!--
 **pepcmarques/pepcmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
