@@ -37,6 +37,8 @@ Managed both support and development teams for many years using the best practic
 ## This repo
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pepcmarques/pepcmarques)
+![GitHub License](https://img.shields.io/github/license/pepcmarques/pepcmarques)
+
 
 
 <!--
