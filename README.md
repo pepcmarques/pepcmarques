@@ -65,6 +65,8 @@ Shields - https://shields.io
 Badges - https://github.com/VishwaGauravIn/pretty-readme-badges
        - https://github.com/alexandresanlim/Badges4-README.md-Profile
 
+Beautify - https://github.com/rzashakeri/beautify-github-profile
+
 Some ideas....
 
 Here are some ideas to get you started:
